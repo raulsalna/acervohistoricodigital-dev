@@ -13,7 +13,7 @@
       :limit="1"
     >
       <el-button size="small" icon="far fa-file-excel" type="primary">
-        Carga Masiva</el-button
+        Carga Masiva.</el-button
       >
     </el-upload>
     <el-alert
