@@ -7,7 +7,7 @@
       :on-success="successfile"
       :on-error="showErrorMessage"
       :headers="{ Authorization: apiToken }"
-      action="/api/importExcel"
+      action="/acervo/api/importExcel"
       accept="application/vnd.ms-excel,  application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
       name="document"
       :limit="1"

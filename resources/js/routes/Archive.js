@@ -1,8 +1,8 @@
 import {RouterView} from './RouterView.js';
-import Index from '../components/views/Archive/Index';
-import Create from '../components/views/Archive/Create';
-import Show from '../components/views/Archive/Show';
-import Edit from '../components/views/Archive/Edit';
+import Index from '../components/views/archive/Index';
+import Create from '../components/views/archive/Create';
+import Show from '../components/views/archive/Show';
+import Edit from '../components/views/archive/Edit';
 
 export default {
     path: '/acervo/archivo',

@@ -1,11 +1,10 @@
 import {RouterView} from './RouterView.js';
-import AdminIndex from '../components/views/admin/Index';
-
+import AdminIndex from '../components/views/Admin/index';
 import CatalogsIndex from '../components/views/catalogs/Index';
 import BulkIndex from '../components/views/Admin/bulk/Index';
 import UsersIndex from '../components/views/Admin/users/Index';
 import UsersEdit from '../components/views/Admin/users/Edit';
-import UsersCreate from '../components/views/admin/users/Create';
+import UsersCreate from '../components/views/Admin/users/Create';
 import store from '../store/index';
 import {Message} from 'element-ui'
 

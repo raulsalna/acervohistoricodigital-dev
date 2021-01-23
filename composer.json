@@ -15,6 +15,7 @@
         "laravel/passport": "^7.5",
         "laravel/tinker": "^1.0",
         "laraveles/spanish": "^1.4",
+        "lcobucci/jwt": "3.3.3",
         "maatwebsite/excel": "^3.1",
         "phpoffice/phpword": "^0.17.0",
         "softcreatr/php-mime-detector": "^3.0"
